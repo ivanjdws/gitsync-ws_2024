@@ -1,0 +1,15 @@
+---
+description: Instructions for table "AI Tags"
+alwaysApply: true
+---
+This is a Webflow table that we have synced to GitHub.
+
+The data files for this table are stored in the format: JSON.
+
+The table contains these fields:
+- Name (webflow/PlainText) metadata: {"required":true,"isPrimary":true,"displayIcon":"text-aa","supportsRead":true,"supportsWrite":true,"stringMetadata":{"isMultilineString":false},"allowsMultipleValues":false,"defaultValueIfAbsent":null}
+- Slug (webflow/PlainText) metadata: {"required":false,"displayIcon":"text-aa","supportsRead":true,"supportsWrite":true,"stringMetadata":{"isMultilineString":false},"allowsMultipleValues":false,"defaultValueIfAbsent":null}
+- Webflow Status (webflow/syntheticStatus) metadata: {"required":false,"displayIcon":"caret-circle-down","supportsRead":true,"supportsWrite":true,"stringMetadata":{"isSelect":true,"isMultilineString":false},"allowsMultipleValues":false,"defaultValueIfAbsent":null}
+- Last Updated (webflow/CmsDate) metadata: {"required":false,"displayIcon":"calendar","dateMetadata":{"format":"datetime","isDate":true},"supportsRead":true,"supportsWrite":false,"allowsMultipleValues":false,"defaultValueIfAbsent":null}
+- Created (webflow/CmsDate) metadata: {"required":false,"displayIcon":"calendar","dateMetadata":{"format":"datetime","isDate":true},"supportsRead":true,"supportsWrite":false,"allowsMultipleValues":false,"defaultValueIfAbsent":null}
+- Last Published (webflow/CmsDate) metadata: {"required":false,"displayIcon":"calendar","dateMetadata":{"format":"datetime","isDate":true},"supportsRead":true,"supportsWrite":false,"allowsMultipleValues":false,"defaultValueIfAbsent":null}
